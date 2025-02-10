@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/tejeshgorle/CodeAlpha_Docx.git
+   git clone https://github.com/tejeshgorle/codealpha_Docx.git
    cd repository-name
    ```
 2. Install dependencies:
